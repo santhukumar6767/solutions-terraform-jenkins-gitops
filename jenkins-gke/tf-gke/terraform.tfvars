@@ -1,6 +1,6 @@
 
 
-project_id = "PROJECT_ID"
+project_id = "example-317116"
 tfstate_gcs_backend = "PROJECT_ID-tfstate"
 region = "us-east4"
 zones = ["us-east4-a"]
